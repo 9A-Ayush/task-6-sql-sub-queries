@@ -82,14 +82,17 @@ WHERE TotalOrders >= 2;
 
 ## 🖼 Screenshots
 
-### 📸 1. Scalar Subquery Output
-![Scalar Subquery](IMAGE_LINK_1)
+### 📸 2. Scalar Subquery Output
+![Scalar Subquery](https://github.com/9A-Ayush/task-6-sql-sub-queries/blob/main/ss/1.png)
 
-### 📸 2. EXISTS Clause Output
-![EXISTS Subquery](IMAGE_LINK_2)
+### 📸 2. Subquery in WHERE (IN)
+![Subquery in WHERE (IN)](https://github.com/9A-Ayush/task-6-sql-sub-queries/blob/main/ss/2.png)
 
-### 📸 3. Subquery in FROM
-![FROM Subquery](IMAGE_LINK_3)
+### 📸 3. EXISTS Clause Output
+![EXISTS Subquery](https://github.com/9A-Ayush/task-6-sql-sub-queries/blob/main/ss/3.png)
+
+### 📸 4. Subquery in FROM
+![FROM Subquery](https://github.com/9A-Ayush/task-6-sql-sub-queries/blob/main/ss/4.png)
 
 ---
 
@@ -101,7 +104,7 @@ WHERE TotalOrders >= 2;
 
 ## 📚 Related Repositories
 
-- 🚗 [Elite Tower - MERN Stack Hotel Booking System](https://github.com/9A-Ayush/elite-tower_Mern.git)
+- 🏋 [Pulse Gym - MERN Stack](https://github.com/9A-Ayush/Pulse-gym_mern.git)
 
 ---
 
